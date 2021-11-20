@@ -7,7 +7,7 @@
 Deployed at: _https://diabetesprediction.herokuapp.com/
 
 • If you are searching for __Code__, __Algorithms used__ and __Accuracy__ of the model.. you won't find it here. Click the link mentioned below for the same:<br />
-Link: 
+Link: --https://github.com/ajinkyakokane/diabetesprediction.github.io/branches
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
